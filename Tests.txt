@@ -1,0 +1,83 @@
+TEST ONE:
+Enter contact number:-
+input: 478610181
+
+>> Contact should start with 0. Try Again
+
+Please enter a valid Contact:- 04827373722
+
+>> Enter a valid number. Try Again
+
+Please enter a valid Contact:- 0478610118
+
+// code will continue to password
+
+The code will detect if the phone number starts with 0, if not then it will produce a error message
+If the phone number is more than the required amount of numbers, it will also another error message
+
+TEST TWO:
+
+Enter 1 for new account else enter 2:-
+input: 2
+
+Enter email:-
+input: mihirpatel@outlook.com
+
+Enter password:- 
+input: $Mihir2043
+
+Enter 1 to switch to wallet:-
+Enter 2 to switch to portfolio:-
+Enter 3 to switch to stocklist:-
+Enter 4 to exit:-
+// code continues on with input
+
+This is for sign in, where the user is asked to enter the email and password they created in registration
+Hence allowing them to move to the main menu.
+If the user entered the wrong email, they would have been prompted to enter the email again and if the
+password is incorrect, they will be asked to re enter the password. We were going to include 'forgot 
+password', although due to time constraints it was not included.
+
+TEST THREE:
+
+Input: 1
+
+Apple:-       340.673
+Nvidia:-      194.785
+Alphabet:-    247.55
+Metta:-       876.578
+Amazon:-      273.85
+Microsoft:-   612.835
+Oracle:-      173.152
+Tesla:-       323.586
+
+If you want to buy a stock enter stock name else enter r to see the updated stock value
+
+input: Apple
+
+What currency from the following are you choosing from:-
+1. For american dollar enter USD
+2. For United Kingdom Pound enter GBP
+3. For Japanese Yen enter JPY
+4. For European Euro enter Euro
+5. For Australian Dollar enter AUD
+
+input: AUD
+
+Enter the amount of money you want to enter:
+input: 300
+
+// code continues to main menu
+
+If the user does enter the stock name incorrectly they will be prompted to enter it again
+User has to enter either a number from 1-5 to choose currency, if that is not valid, they will
+be required to enter another currency
+
+TEST FOUR:
+
+Enter email:- mihirpatel2023@outlook.comm
+
+Enter a valid email:- mihirpatel2023@outlook.com
+
+Here the email was entered incorrectly, hence the user was asked to enter again.
+

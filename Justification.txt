@@ -1,0 +1,14 @@
+no need of stratagy - 
+after consulting from a professional trader and some research, we found out that something such 
+as 'stratagy' to exicute auto orders has a completely different platform widly knows as 'trading bots', 
+therefor it was not ideal for our team to make such class which could be a different project in itself. 
+
+limit order not possible at this stage - 
+Due to limited knowledge in the coding feild, we could not have a dynamic data or such storage to store the dynamic data. 
+For the limit order to place an order when the stock hits the specific price, we need to have dynamic memory when the files are 
+closed so even in background when the pice hits the specific price the program will place the order, which is not the case in our project. 
+
+Stop loss / take profit was also not possible due to same reason of not having a dynamic or on going price even when the files are not running. 
+
+Additional variables and funtion - 
+As we moved further throught the program, we relaised we needed some functions for some specif thing so then we had to add those. 
